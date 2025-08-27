@@ -4,6 +4,6 @@ NPM : 2406407594
 
 Kelas : PBP F
 
-Hobi : Tidur
+Hobi : Tidur, makan
 
-Jurusan : Ilmu Sistem Informasi Komputer
+Jurusan : Sistem Informasi
